@@ -1,5 +1,5 @@
 # Tic Tac Toe
-![ScreenDisplay](https://github.com/orcohen226/TicTacToe/assets/81368866/3566a6a9-34d0-4816-9162-c50c73ec969b)
+![ScreenDisplay](https://github.com/orcohen226/TicTacToe/assets/81368866/3566a6a9-34d0-4816-9162-c50c73ec969b) ![EnterYourNames](https://github.com/orcohen226/TicTacToe/assets/81368866/b93710db-d3d6-4f9f-8a6b-6d502c0d9f0c)
 
 Welcome to the Tic Tac Toe game! This application allows you to play the classic game of Tic Tac Toe on a single device.
 
