@@ -10,7 +10,9 @@ Tic Tac Toe is a simple yet fun game for two players, X and O, who take turns ma
 ## Features
 
 Two-Player Mode: Play against a friend on the same device.
+
 User-Friendly Interface: Easy to use and navigate.
+
 Reset Functionality: Restart the game at any time.
 
 
